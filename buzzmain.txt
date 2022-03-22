@@ -1,0 +1,7 @@
+package Buzz;
+
+public class Buzzmain {
+        public static void main(String[] args) {
+            Buzzativ buzz1 = new Buzzativ();
+        }
+}
